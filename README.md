@@ -4,19 +4,19 @@ GTask is the leading Windows Phone Google Tasks management application. It has A
 
 Features: 
 - Easily Manage Multiple Task Lists & Tasks 
-- - Multiple Sorting Options for Tasks Lists & Tasks 
-- - LiveTile Support 
-- - Tasks Due or Total Tasks 
-- - Quickly Create New Tasks 
-- - Drag & Drop Tasks 
-- - Set a Default Reminder 
-- - Hide Notes or Due Notes in Task View 
-- - Hide or Show Completed Tasks 
-- - Offline Mode 
-- - Speech to Text (PAID) 
-- - Auto Clear Completed Tasks (PAID) 
-- - Auto Refresh List & Tasks (PAID) 
-- - Integrated with LockMix
+- Multiple Sorting Options for Tasks Lists & Tasks 
+- LiveTile Support 
+- Tasks Due or Total Tasks 
+- Quickly Create New Tasks 
+- Drag & Drop Tasks 
+- Set a Default Reminder 
+- Hide Notes or Due Notes in Task View 
+- Hide or Show Completed Tasks 
+- Offline Mode 
+- Speech to Text (PAID) 
+- Auto Clear Completed Tasks (PAID) 
+- Auto Refresh List & Tasks (PAID) 
+- Integrated with LockMix
 
 GTask -> https://www.microsoft.com/en-us/store/p/gtask/9nblggh0fxj9
 GTask+ -> https://www.microsoft.com/en-us/store/p/gtask/9wzdncrdr6zx 
