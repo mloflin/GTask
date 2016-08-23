@@ -23,3 +23,5 @@ Links
 - GTask+ -> https://www.microsoft.com/en-us/store/p/gtask/9wzdncrdr6zx 
 
 Last edits were made in August of 2015.
+
+Latest successful build was August 2016 in Visual Studio 2015 Community Edition and it required Windows Phone 8.0/8.1 SDK and appropriate Emulators requiring virtualization.
