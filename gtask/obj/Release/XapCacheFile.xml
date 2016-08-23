@@ -1,0 +1,46 @@
+﻿<xapCache source="C:\Users\mloflin\Google Drive\GitHub\GTask\gTask\Bin\Release\gTask_Release_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="8/23/2016 1:01:17 PM">
+  <file source="C:\Users\mloflin\Google Drive\GitHub\GTask\gTask\obj\Release\gTask.dll" archivePath="gTask.dll" lastWriteTime="8/23/2016 1:01:13 PM" />
+  <file source="C:\Users\mloflin\Google Drive\GitHub\GTask\gTask\Assets\add.png" archivePath="Assets\add.png" lastWriteTime="6/29/2015 3:55:10 PM" />
+  <file source="C:\Users\mloflin\Google Drive\GitHub\GTask\gTask\Assets\cancel.png" archivePath="Assets\cancel.png" lastWriteTime="6/29/2015 3:55:10 PM" />
+  <file source="C:\Users\mloflin\Google Drive\GitHub\GTask\gTask\Assets\Icons\110.png" archivePath="Assets\Icons\110.png" lastWriteTime="6/29/2015 3:55:10 PM" />
+  <file source="C:\Users\mloflin\Google Drive\GitHub\GTask\gTask\Assets\Icons\Free.png" archivePath="Assets\Icons\Free.png" lastWriteTime="6/29/2015 3:55:12 PM" />
+  <file source="C:\Users\mloflin\Google Drive\GitHub\GTask\gTask\Assets\Icons\Paid.png" archivePath="Assets\Icons\Paid.png" lastWriteTime="6/29/2015 3:55:12 PM" />
+  <file source="C:\Users\mloflin\Google Drive\GitHub\GTask\gTask\Assets\pin.png" archivePath="Assets\pin.png" lastWriteTime="6/29/2015 3:55:10 PM" />
+  <file source="C:\Users\mloflin\Google Drive\GitHub\GTask\gTask\Assets\speak.png" archivePath="Assets\speak.png" lastWriteTime="6/29/2015 3:55:10 PM" />
+  <file source="C:\Users\mloflin\Google Drive\GitHub\GTask\gTask\Assets\unpin.png" archivePath="Assets\unpin.png" lastWriteTime="6/29/2015 3:55:10 PM" />
+  <file source="C:\Users\mloflin\Google Drive\GitHub\GTask\gTask\Assets\edit.png" archivePath="Assets\edit.png" lastWriteTime="6/29/2015 3:55:10 PM" />
+  <file source="C:\Users\mloflin\Google Drive\GitHub\GTask\gTask\Assets\save.png" archivePath="Assets\save.png" lastWriteTime="6/29/2015 3:55:10 PM" />
+  <file source="C:\Users\mloflin\Google Drive\GitHub\GTask\gTask\Assets\sync.png" archivePath="Assets\sync.png" lastWriteTime="6/29/2015 3:55:10 PM" />
+  <file source="C:\Users\mloflin\Google Drive\GitHub\GTask\gTask\Toolkit.Content\ApplicationBar.Add.png" archivePath="Toolkit.Content\ApplicationBar.Add.png" lastWriteTime="6/29/2015 3:55:14 PM" />
+  <file source="C:\Users\mloflin\Google Drive\GitHub\GTask\gTask\Toolkit.Content\ApplicationBar.Cancel.png" archivePath="Toolkit.Content\ApplicationBar.Cancel.png" lastWriteTime="6/29/2015 3:55:14 PM" />
+  <file source="C:\Users\mloflin\Google Drive\GitHub\GTask\gTask\Toolkit.Content\ApplicationBar.Check.png" archivePath="Toolkit.Content\ApplicationBar.Check.png" lastWriteTime="6/29/2015 3:55:14 PM" />
+  <file source="C:\Users\mloflin\Google Drive\GitHub\GTask\gTask\Toolkit.Content\ApplicationBar.Delete.png" archivePath="Toolkit.Content\ApplicationBar.Delete.png" lastWriteTime="6/29/2015 3:55:16 PM" />
+  <file source="C:\Users\mloflin\Google Drive\GitHub\GTask\gTask\Toolkit.Content\ApplicationBar.Select.png" archivePath="Toolkit.Content\ApplicationBar.Select.png" lastWriteTime="6/29/2015 3:55:16 PM" />
+  <file source="C:\Users\mloflin\Google Drive\GitHub\GTask\gTask\Bin\Release\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="6/29/2015 9:24:22 PM" />
+  <file source="C:\Users\mloflin\Google Drive\GitHub\GTask\gTask\BackgroundAgent\Bin\Release\BackgroundAgent.dll" archivePath="BackgroundAgent.dll" lastWriteTime="8/23/2016 1:01:10 PM" />
+  <file source="C:\Users\mloflin\Google Drive\GitHub\GTask\gTask\Bin\Release\Microsoft.Advertising.Mobile.dll" archivePath="Microsoft.Advertising.Mobile.dll" lastWriteTime="4/21/2015 3:49:50 AM" />
+  <file source="C:\Users\mloflin\Google Drive\GitHub\GTask\gTask\Bin\Release\microsoft.advertising.mobile.ui.dll" archivePath="microsoft.advertising.mobile.ui.dll" lastWriteTime="4/21/2015 3:49:50 AM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v8.0\Libraries\Microsoft.Phone.Controls.Maps.dll" archivePath="Microsoft.Phone.Controls.Maps.dll" lastWriteTime="1/1/2013 5:57:00 PM" />
+  <file source="C:\Users\mloflin\Google Drive\GitHub\GTask\gTask\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll" archivePath="Microsoft.Phone.Controls.Toolkit.dll" lastWriteTime="4/21/2015 3:49:48 AM" />
+  <file source="C:\Users\mloflin\Google Drive\GitHub\GTask\packages\Microsoft.Bcl.Async.1.0.168\lib\wp8\Microsoft.Threading.Tasks.dll" archivePath="Microsoft.Threading.Tasks.dll" lastWriteTime="4/21/2015 3:53:12 AM" />
+  <file source="C:\Users\mloflin\Google Drive\GitHub\GTask\packages\Microsoft.Bcl.Async.1.0.168\lib\wp8\Microsoft.Threading.Tasks.Extensions.dll" archivePath="Microsoft.Threading.Tasks.Extensions.dll" lastWriteTime="4/21/2015 3:53:12 AM" />
+  <file source="C:\Users\mloflin\Google Drive\GitHub\GTask\packages\Microsoft.Bcl.Async.1.0.168\lib\wp8\Microsoft.Threading.Tasks.Extensions.Phone.dll" archivePath="Microsoft.Threading.Tasks.Extensions.Phone.dll" lastWriteTime="4/21/2015 3:53:10 AM" />
+  <file source="C:\Users\mloflin\Google Drive\GitHub\GTask\packages\Newtonsoft.Json.4.5.11\lib\portable-net40+sl4+wp7+win8\Newtonsoft.Json.dll" archivePath="Newtonsoft.Json.dll" lastWriteTime="4/21/2015 3:53:42 AM" />
+  <file source="C:\Users\mloflin\Google Drive\GitHub\GTask\gTask\Bin\Release\RestSharp.WindowsPhone.dll" archivePath="RestSharp.WindowsPhone.dll" lastWriteTime="4/21/2015 3:49:44 AM" />
+  <file source="C:\Users\mloflin\Google Drive\GitHub\GTask\packages\Microsoft.Net.Http.2.2.22\lib\sl4-windowsphone71\System.Net.Http.dll" archivePath="System.Net.Http.dll" lastWriteTime="4/21/2015 3:53:32 AM" />
+  <file source="C:\Users\mloflin\Google Drive\GitHub\GTask\packages\Microsoft.Net.Http.2.2.22\lib\sl4-windowsphone71\System.Net.Http.Extensions.dll" archivePath="System.Net.Http.Extensions.dll" lastWriteTime="4/21/2015 3:53:30 AM" />
+  <file source="C:\Users\mloflin\Google Drive\GitHub\GTask\packages\Microsoft.Net.Http.2.2.22\lib\sl4-windowsphone71\System.Net.Http.Primitives.dll" archivePath="System.Net.Http.Primitives.dll" lastWriteTime="4/21/2015 3:53:30 AM" />
+  <file source="C:\Users\mloflin\Google Drive\GitHub\GTask\packages\Zlib.Portable.1.10.0\lib\portable-net4+sl5+wp8+win8+wpa81+MonoTouch+MonoAndroid\Zlib.Portable.dll" archivePath="Zlib.Portable.dll" lastWriteTime="4/21/2015 3:54:18 AM" />
+  <file source="C:\Users\mloflin\Google Drive\GitHub\GTask\packages\Microsoft.Bcl.Async.1.0.168\lib\wp8\Microsoft.Threading.Tasks.xml" archivePath="Microsoft.Threading.Tasks.xml" lastWriteTime="6/29/2015 3:55:20 PM" />
+  <file source="C:\Users\mloflin\Google Drive\GitHub\GTask\packages\Microsoft.Bcl.Async.1.0.168\lib\wp8\Microsoft.Threading.Tasks.Extensions.xml" archivePath="Microsoft.Threading.Tasks.Extensions.xml" lastWriteTime="6/29/2015 3:55:20 PM" />
+  <file source="C:\Users\mloflin\Google Drive\GitHub\GTask\packages\Microsoft.Bcl.Async.1.0.168\lib\wp8\Microsoft.Threading.Tasks.Extensions.Phone.xml" archivePath="Microsoft.Threading.Tasks.Extensions.Phone.xml" lastWriteTime="6/29/2015 3:55:20 PM" />
+  <file source="C:\Users\mloflin\Google Drive\GitHub\GTask\packages\Newtonsoft.Json.4.5.11\lib\portable-net40+sl4+wp7+win8\Newtonsoft.Json.xml" archivePath="Newtonsoft.Json.xml" lastWriteTime="6/29/2015 3:55:22 PM" />
+  <file source="C:\Users\mloflin\Google Drive\GitHub\GTask\packages\Microsoft.Net.Http.2.2.22\lib\sl4-windowsphone71\System.Net.Http.xml" archivePath="System.Net.Http.xml" lastWriteTime="6/29/2015 3:55:22 PM" />
+  <file source="C:\Users\mloflin\Google Drive\GitHub\GTask\packages\Microsoft.Net.Http.2.2.22\lib\sl4-windowsphone71\System.Net.Http.Extensions.xml" archivePath="System.Net.Http.Extensions.xml" lastWriteTime="6/29/2015 3:55:20 PM" />
+  <file source="C:\Users\mloflin\Google Drive\GitHub\GTask\packages\Microsoft.Net.Http.2.2.22\lib\sl4-windowsphone71\System.Net.Http.Primitives.xml" archivePath="System.Net.Http.Primitives.xml" lastWriteTime="6/29/2015 3:55:22 PM" />
+  <file source="C:\Users\mloflin\Google Drive\GitHub\GTask\packages\Zlib.Portable.1.10.0\lib\portable-net4+sl5+wp8+win8+wpa81+MonoTouch+MonoAndroid\Zlib.Portable.xml" archivePath="Zlib.Portable.xml" lastWriteTime="6/29/2015 3:55:24 PM" />
+  <file source="C:\Users\mloflin\Google Drive\GitHub\GTask\gTask\Assets\Icons\202.png" archivePath="Assets\Icons\202.png" lastWriteTime="6/29/2015 3:55:10 PM" />
+  <file source="C:\Users\mloflin\Google Drive\GitHub\GTask\gTask\BackgroundAgent\Bin\Release\Newtonsoft.Json.dll" archivePath="Newtonsoft.Json.dll" lastWriteTime="4/21/2015 3:50:14 AM" />
+  <file source="C:\Users\mloflin\Google Drive\GitHub\GTask\gTask\BackgroundAgent\Bin\Release\RestSharp.WindowsPhone.dll" archivePath="RestSharp.WindowsPhone.dll" lastWriteTime="4/21/2015 3:50:14 AM" />
+  <file source="C:\Users\mloflin\Google Drive\GitHub\GTask\gTask\Bin\Release\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="8/2/2015 8:09:16 PM" />
+</xapCache>

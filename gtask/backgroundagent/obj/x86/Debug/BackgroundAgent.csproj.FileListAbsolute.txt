@@ -1,0 +1,6 @@
+C:\Users\mloflin\Documents\Visual Studio 2012\Projects\gTask\gTask\BackgroundAgent\Bin\x86\Debug\BackgroundAgent.dll
+C:\Users\mloflin\Documents\Visual Studio 2012\Projects\gTask\gTask\BackgroundAgent\Bin\x86\Debug\BackgroundAgent.pdb
+C:\Users\mloflin\Documents\Visual Studio 2012\Projects\gTask\gTask\BackgroundAgent\Bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\mloflin\Documents\Visual Studio 2012\Projects\gTask\gTask\BackgroundAgent\Bin\x86\Debug\RestSharp.WindowsPhone.dll
+C:\Users\mloflin\Documents\Visual Studio 2012\Projects\gTask\gTask\BackgroundAgent\obj\x86\Debug\BackgroundAgent.dll
+C:\Users\mloflin\Documents\Visual Studio 2012\Projects\gTask\gTask\BackgroundAgent\obj\x86\Debug\BackgroundAgent.pdb

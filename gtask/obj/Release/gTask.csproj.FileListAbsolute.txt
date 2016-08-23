@@ -1,0 +1,353 @@
+C:\Users\mloflin\Documents\Visual Studio 2012\Projects\gTask\gTask\gTask\Bin\Release\gTask.dll
+C:\Users\mloflin\Documents\Visual Studio 2012\Projects\gTask\gTask\gTask\Bin\Release\gTask.pdb
+C:\Users\mloflin\Documents\Visual Studio 2012\Projects\gTask\gTask\gTask\Bin\Release\AppManifest.xaml
+C:\Users\mloflin\Documents\Visual Studio 2012\Projects\gTask\gTask\gTask\Bin\Release\Properties\WMAppManifest.xml
+C:\Users\mloflin\Documents\Visual Studio 2012\Projects\gTask\gTask\gTask\Bin\Release\gTask_Release_AnyCPU.xap
+C:\Users\mloflin\Documents\Visual Studio 2012\Projects\gTask\gTask\gTask\Bin\Release\BackgroundAgent.dll
+C:\Users\mloflin\Documents\Visual Studio 2012\Projects\gTask\gTask\gTask\Bin\Release\Microsoft.Advertising.Mobile.dll
+C:\Users\mloflin\Documents\Visual Studio 2012\Projects\gTask\gTask\gTask\Bin\Release\microsoft.advertising.mobile.ui.dll
+C:\Users\mloflin\Documents\Visual Studio 2012\Projects\gTask\gTask\gTask\Bin\Release\Microsoft.Phone.Controls.Maps.dll
+C:\Users\mloflin\Documents\Visual Studio 2012\Projects\gTask\gTask\gTask\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\mloflin\Documents\Visual Studio 2012\Projects\gTask\gTask\gTask\Bin\Release\Newtonsoft.Json.dll
+C:\Users\mloflin\Documents\Visual Studio 2012\Projects\gTask\gTask\gTask\Bin\Release\RestSharp.WindowsPhone.dll
+C:\Users\mloflin\Documents\Visual Studio 2012\Projects\gTask\gTask\gTask\Bin\Release\BackgroundAgent.pdb
+C:\Users\mloflin\Documents\Visual Studio 2012\Projects\gTask\gTask\gTask\obj\Release\gTask.csprojResolveAssemblyReference.cache
+C:\Users\mloflin\Documents\Visual Studio 2012\Projects\gTask\gTask\gTask\obj\Release\App.g.cs
+C:\Users\mloflin\Documents\Visual Studio 2012\Projects\gTask\gTask\gTask\obj\Release\Login.g.cs
+C:\Users\mloflin\Documents\Visual Studio 2012\Projects\gTask\gTask\gTask\obj\Release\MainPage.g.cs
+C:\Users\mloflin\Documents\Visual Studio 2012\Projects\gTask\gTask\gTask\obj\Release\Settings.g.cs
+C:\Users\mloflin\Documents\Visual Studio 2012\Projects\gTask\gTask\gTask\obj\Release\Views\TaskView.g.cs
+C:\Users\mloflin\Documents\Visual Studio 2012\Projects\gTask\gTask\gTask\obj\Release\Views\Edit.g.cs
+C:\Users\mloflin\Documents\Visual Studio 2012\Projects\gTask\gTask\gTask\obj\Release\Views\EditList.g.cs
+C:\Users\mloflin\Documents\Visual Studio 2012\Projects\gTask\gTask\gTask\obj\Release\gTask.g.resources
+C:\Users\mloflin\Documents\Visual Studio 2012\Projects\gTask\gTask\gTask\obj\Release\gTask.Resources.AppResources.resources
+C:\Users\mloflin\Documents\Visual Studio 2012\Projects\gTask\gTask\gTask\obj\Release\gTask.csproj.GenerateResource.Cache
+C:\Users\mloflin\Documents\Visual Studio 2012\Projects\gTask\gTask\gTask\obj\Release\gTask.dll
+C:\Users\mloflin\Documents\Visual Studio 2012\Projects\gTask\gTask\gTask\obj\Release\gTask.pdb
+C:\Users\mloflin\Documents\Visual Studio 2012\Projects\gTask\gTask\gTask\obj\Release\XapCacheFile.xml
+C:\Users\mloflin\Documents\Visual Studio 2013\Projects\gTask\gTask\gTask\Bin\Release\gTask.dll
+C:\Users\mloflin\Documents\Visual Studio 2013\Projects\gTask\gTask\gTask\Bin\Release\gTask.pdb
+C:\Users\mloflin\Documents\Visual Studio 2013\Projects\gTask\gTask\gTask\Bin\Release\AppManifest.xaml
+C:\Users\mloflin\Documents\Visual Studio 2013\Projects\gTask\gTask\gTask\Bin\Release\Properties\WMAppManifest.xml
+C:\Users\mloflin\Documents\Visual Studio 2013\Projects\gTask\gTask\gTask\Bin\Release\gTask_Release_AnyCPU.xap
+C:\Users\mloflin\Documents\Visual Studio 2013\Projects\gTask\gTask\gTask\Bin\Release\BackgroundAgent.dll
+C:\Users\mloflin\Documents\Visual Studio 2013\Projects\gTask\gTask\gTask\Bin\Release\Microsoft.Phone.Controls.Maps.dll
+C:\Users\mloflin\Documents\Visual Studio 2013\Projects\gTask\gTask\gTask\Bin\Release\BackgroundAgent.pdb
+C:\Users\mloflin\Documents\Visual Studio 2013\Projects\gTask\gTask\gTask\obj\Release\gTask.csprojResolveAssemblyReference.cache
+C:\Users\mloflin\Documents\Visual Studio 2013\Projects\gTask\gTask\gTask\obj\Release\App.g.cs
+C:\Users\mloflin\Documents\Visual Studio 2013\Projects\gTask\gTask\gTask\obj\Release\Login.g.cs
+C:\Users\mloflin\Documents\Visual Studio 2013\Projects\gTask\gTask\gTask\obj\Release\MainPage.g.cs
+C:\Users\mloflin\Documents\Visual Studio 2013\Projects\gTask\gTask\gTask\obj\Release\Settings.g.cs
+C:\Users\mloflin\Documents\Visual Studio 2013\Projects\gTask\gTask\gTask\obj\Release\Views\TaskView.g.cs
+C:\Users\mloflin\Documents\Visual Studio 2013\Projects\gTask\gTask\gTask\obj\Release\Views\Edit.g.cs
+C:\Users\mloflin\Documents\Visual Studio 2013\Projects\gTask\gTask\gTask\obj\Release\Views\EditList.g.cs
+C:\Users\mloflin\Documents\Visual Studio 2013\Projects\gTask\gTask\gTask\obj\Release\gTask.g.resources
+C:\Users\mloflin\Documents\Visual Studio 2013\Projects\gTask\gTask\gTask\obj\Release\gTask.Resources.AppResources.resources
+C:\Users\mloflin\Documents\Visual Studio 2013\Projects\gTask\gTask\gTask\obj\Release\gTask.csproj.GenerateResource.Cache
+C:\Users\mloflin\Documents\Visual Studio 2013\Projects\gTask\gTask\gTask\obj\Release\gTask.dll
+C:\Users\mloflin\Documents\Visual Studio 2013\Projects\gTask\gTask\gTask\obj\Release\gTask.pdb
+C:\Users\mloflin\Documents\Visual Studio 2013\Projects\gTask\gTask\gTask\obj\Release\XapCacheFile.xml
+C:\Users\mloflin\Documents\Visual Studio 2013\Projects\gTask\gTask\Bin\Release\gTask.dll
+C:\Users\mloflin\Documents\Visual Studio 2013\Projects\gTask\gTask\Bin\Release\gTask.pdb
+C:\Users\mloflin\Documents\Visual Studio 2013\Projects\gTask\gTask\Bin\Release\AppManifest.xaml
+C:\Users\mloflin\Documents\Visual Studio 2013\Projects\gTask\gTask\Bin\Release\Properties\WMAppManifest.xml
+C:\Users\mloflin\Documents\Visual Studio 2013\Projects\gTask\gTask\Bin\Release\gTask_Release_AnyCPU.xap
+C:\Users\mloflin\Documents\Visual Studio 2013\Projects\gTask\gTask\Bin\Release\BackgroundAgent.dll
+C:\Users\mloflin\Documents\Visual Studio 2013\Projects\gTask\gTask\Bin\Release\Microsoft.Phone.Controls.Maps.dll
+C:\Users\mloflin\Documents\Visual Studio 2013\Projects\gTask\gTask\Bin\Release\BackgroundAgent.pdb
+C:\Users\mloflin\Documents\Visual Studio 2013\Projects\gTask\gTask\obj\Release\gTask.csprojResolveAssemblyReference.cache
+C:\Users\mloflin\Documents\Visual Studio 2013\Projects\gTask\gTask\obj\Release\App.g.cs
+C:\Users\mloflin\Documents\Visual Studio 2013\Projects\gTask\gTask\obj\Release\Login.g.cs
+C:\Users\mloflin\Documents\Visual Studio 2013\Projects\gTask\gTask\obj\Release\MainPage.g.cs
+C:\Users\mloflin\Documents\Visual Studio 2013\Projects\gTask\gTask\obj\Release\Settings.g.cs
+C:\Users\mloflin\Documents\Visual Studio 2013\Projects\gTask\gTask\obj\Release\Views\TaskView.g.cs
+C:\Users\mloflin\Documents\Visual Studio 2013\Projects\gTask\gTask\obj\Release\Views\Edit.g.cs
+C:\Users\mloflin\Documents\Visual Studio 2013\Projects\gTask\gTask\obj\Release\Views\EditList.g.cs
+C:\Users\mloflin\Documents\Visual Studio 2013\Projects\gTask\gTask\obj\Release\gTask.g.resources
+C:\Users\mloflin\Documents\Visual Studio 2013\Projects\gTask\gTask\obj\Release\gTask.Resources.AppResources.resources
+C:\Users\mloflin\Documents\Visual Studio 2013\Projects\gTask\gTask\obj\Release\gTask.csproj.GenerateResource.Cache
+C:\Users\mloflin\Documents\Visual Studio 2013\Projects\gTask\gTask\obj\Release\gTask.dll
+C:\Users\mloflin\Documents\Visual Studio 2013\Projects\gTask\gTask\obj\Release\gTask.pdb
+C:\Users\mloflin\Documents\Visual Studio 2013\Projects\gTask\gTask\obj\Release\XapCacheFile.xml
+C:\Users\mloflin\Documents\Visual Studio 2013\Projects\gTask\gTask\Bin\Release\Microsoft.Threading.Tasks.dll
+C:\Users\mloflin\Documents\Visual Studio 2013\Projects\gTask\gTask\Bin\Release\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\mloflin\Documents\Visual Studio 2013\Projects\gTask\gTask\Bin\Release\Microsoft.Threading.Tasks.Extensions.Phone.dll
+C:\Users\mloflin\Documents\Visual Studio 2013\Projects\gTask\gTask\Bin\Release\Newtonsoft.Json.dll
+C:\Users\mloflin\Documents\Visual Studio 2013\Projects\gTask\gTask\Bin\Release\System.Net.Http.dll
+C:\Users\mloflin\Documents\Visual Studio 2013\Projects\gTask\gTask\Bin\Release\System.Net.Http.Extensions.dll
+C:\Users\mloflin\Documents\Visual Studio 2013\Projects\gTask\gTask\Bin\Release\System.Net.Http.Primitives.dll
+C:\Users\mloflin\Documents\Visual Studio 2013\Projects\gTask\gTask\Bin\Release\Zlib.Portable.dll
+C:\Users\mloflin\Documents\Visual Studio 2013\Projects\gTask\gTask\Bin\Release\Microsoft.Threading.Tasks.xml
+C:\Users\mloflin\Documents\Visual Studio 2013\Projects\gTask\gTask\Bin\Release\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\mloflin\Documents\Visual Studio 2013\Projects\gTask\gTask\Bin\Release\Microsoft.Threading.Tasks.Extensions.Phone.xml
+C:\Users\mloflin\Documents\Visual Studio 2013\Projects\gTask\gTask\Bin\Release\Newtonsoft.Json.xml
+C:\Users\mloflin\Documents\Visual Studio 2013\Projects\gTask\gTask\Bin\Release\System.Net.Http.xml
+C:\Users\mloflin\Documents\Visual Studio 2013\Projects\gTask\gTask\Bin\Release\System.Net.Http.Extensions.xml
+C:\Users\mloflin\Documents\Visual Studio 2013\Projects\gTask\gTask\Bin\Release\System.Net.Http.Primitives.xml
+C:\Users\mloflin\Documents\Visual Studio 2013\Projects\gTask\gTask\Bin\Release\Zlib.Portable.xml
+C:\Users\mloflin\Documents\Visual Studio 2015\Projects\gTask\gTask\Bin\Release\gTask.dll
+C:\Users\mloflin\Documents\Visual Studio 2015\Projects\gTask\gTask\Bin\Release\gTask.pdb
+C:\Users\mloflin\Documents\Visual Studio 2015\Projects\gTask\gTask\Bin\Release\AppManifest.xaml
+C:\Users\mloflin\Documents\Visual Studio 2015\Projects\gTask\gTask\Bin\Release\Properties\WMAppManifest.xml
+C:\Users\mloflin\Documents\Visual Studio 2015\Projects\gTask\gTask\Bin\Release\gTask_Release_AnyCPU.xap
+C:\Users\mloflin\Documents\Visual Studio 2015\Projects\gTask\gTask\Bin\Release\BackgroundAgent.dll
+C:\Users\mloflin\Documents\Visual Studio 2015\Projects\gTask\gTask\Bin\Release\Microsoft.Phone.Controls.Maps.dll
+C:\Users\mloflin\Documents\Visual Studio 2015\Projects\gTask\gTask\Bin\Release\Microsoft.Threading.Tasks.dll
+C:\Users\mloflin\Documents\Visual Studio 2015\Projects\gTask\gTask\Bin\Release\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\mloflin\Documents\Visual Studio 2015\Projects\gTask\gTask\Bin\Release\Microsoft.Threading.Tasks.Extensions.Phone.dll
+C:\Users\mloflin\Documents\Visual Studio 2015\Projects\gTask\gTask\Bin\Release\Newtonsoft.Json.dll
+C:\Users\mloflin\Documents\Visual Studio 2015\Projects\gTask\gTask\Bin\Release\System.Net.Http.dll
+C:\Users\mloflin\Documents\Visual Studio 2015\Projects\gTask\gTask\Bin\Release\System.Net.Http.Extensions.dll
+C:\Users\mloflin\Documents\Visual Studio 2015\Projects\gTask\gTask\Bin\Release\System.Net.Http.Primitives.dll
+C:\Users\mloflin\Documents\Visual Studio 2015\Projects\gTask\gTask\Bin\Release\Zlib.Portable.dll
+C:\Users\mloflin\Documents\Visual Studio 2015\Projects\gTask\gTask\Bin\Release\BackgroundAgent.pdb
+C:\Users\mloflin\Documents\Visual Studio 2015\Projects\gTask\gTask\Bin\Release\Microsoft.Threading.Tasks.xml
+C:\Users\mloflin\Documents\Visual Studio 2015\Projects\gTask\gTask\Bin\Release\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\mloflin\Documents\Visual Studio 2015\Projects\gTask\gTask\Bin\Release\Microsoft.Threading.Tasks.Extensions.Phone.xml
+C:\Users\mloflin\Documents\Visual Studio 2015\Projects\gTask\gTask\Bin\Release\Newtonsoft.Json.xml
+C:\Users\mloflin\Documents\Visual Studio 2015\Projects\gTask\gTask\Bin\Release\System.Net.Http.xml
+C:\Users\mloflin\Documents\Visual Studio 2015\Projects\gTask\gTask\Bin\Release\System.Net.Http.Extensions.xml
+C:\Users\mloflin\Documents\Visual Studio 2015\Projects\gTask\gTask\Bin\Release\System.Net.Http.Primitives.xml
+C:\Users\mloflin\Documents\Visual Studio 2015\Projects\gTask\gTask\Bin\Release\Zlib.Portable.xml
+C:\Users\mloflin\Documents\Visual Studio 2015\Projects\gTask\gTask\obj\Release\gTask.csprojResolveAssemblyReference.cache
+C:\Users\mloflin\Documents\Visual Studio 2015\Projects\gTask\gTask\obj\Release\Login.g.cs
+C:\Users\mloflin\Documents\Visual Studio 2015\Projects\gTask\gTask\obj\Release\MainPage.g.cs
+C:\Users\mloflin\Documents\Visual Studio 2015\Projects\gTask\gTask\obj\Release\Settings.g.cs
+C:\Users\mloflin\Documents\Visual Studio 2015\Projects\gTask\gTask\obj\Release\Views\TaskView.g.cs
+C:\Users\mloflin\Documents\Visual Studio 2015\Projects\gTask\gTask\obj\Release\Views\Edit.g.cs
+C:\Users\mloflin\Documents\Visual Studio 2015\Projects\gTask\gTask\obj\Release\Views\EditList.g.cs
+C:\Users\mloflin\Documents\Visual Studio 2015\Projects\gTask\gTask\obj\Release\gTask.g.resources
+C:\Users\mloflin\Documents\Visual Studio 2015\Projects\gTask\gTask\obj\Release\gTask.Resources.AppResources.resources
+C:\Users\mloflin\Documents\Visual Studio 2015\Projects\gTask\gTask\obj\Release\gTask.csproj.GenerateResource.Cache
+C:\Users\mloflin\Documents\Visual Studio 2015\Projects\gTask\gTask\obj\Release\gTask.dll
+C:\Users\mloflin\Documents\Visual Studio 2015\Projects\gTask\gTask\obj\Release\gTask.pdb
+C:\Users\mloflin\Documents\Visual Studio 2015\Projects\gTask\gTask\obj\Release\XapCacheFile.xml
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Original\gTask\Bin\Release\gTask.dll
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Original\gTask\Bin\Release\gTask.pdb
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Original\gTask\Bin\Release\AppManifest.xaml
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Original\gTask\Bin\Release\Properties\WMAppManifest.xml
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Original\gTask\Bin\Release\gTask_Release_AnyCPU.xap
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Original\gTask\Bin\Release\BackgroundAgent.dll
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Original\gTask\Bin\Release\Microsoft.Phone.Controls.Maps.dll
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Original\gTask\Bin\Release\Microsoft.Threading.Tasks.dll
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Original\gTask\Bin\Release\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Original\gTask\Bin\Release\Microsoft.Threading.Tasks.Extensions.Phone.dll
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Original\gTask\Bin\Release\Newtonsoft.Json.dll
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Original\gTask\Bin\Release\System.Net.Http.dll
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Original\gTask\Bin\Release\System.Net.Http.Extensions.dll
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Original\gTask\Bin\Release\System.Net.Http.Primitives.dll
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Original\gTask\Bin\Release\Zlib.Portable.dll
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Original\gTask\Bin\Release\BackgroundAgent.pdb
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Original\gTask\Bin\Release\Microsoft.Threading.Tasks.xml
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Original\gTask\Bin\Release\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Original\gTask\Bin\Release\Microsoft.Threading.Tasks.Extensions.Phone.xml
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Original\gTask\Bin\Release\Newtonsoft.Json.xml
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Original\gTask\Bin\Release\System.Net.Http.xml
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Original\gTask\Bin\Release\System.Net.Http.Extensions.xml
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Original\gTask\Bin\Release\System.Net.Http.Primitives.xml
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Original\gTask\Bin\Release\Zlib.Portable.xml
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Original\gTask\obj\Release\gTask.csprojResolveAssemblyReference.cache
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Original\gTask\obj\Release\App.g.cs
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Original\gTask\obj\Release\Login.g.cs
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Original\gTask\obj\Release\MainPage.g.cs
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Original\gTask\obj\Release\Settings.g.cs
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Original\gTask\obj\Release\Views\TaskView.g.cs
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Original\gTask\obj\Release\Views\Edit.g.cs
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Original\gTask\obj\Release\Views\EditList.g.cs
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Original\gTask\obj\Release\gTask.g.resources
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Original\gTask\obj\Release\gTask.Resources.AppResources.resources
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Original\gTask\obj\Release\gTask.csproj.GenerateResource.Cache
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Original\gTask\obj\Release\gTask.dll
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Original\gTask\obj\Release\gTask.pdb
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Original\gTask\obj\Release\XapCacheFile.xml
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version1-AddLocalStorage\gTask\Bin\Release\gTask.dll
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version1-AddLocalStorage\gTask\Bin\Release\gTask.pdb
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version1-AddLocalStorage\gTask\Bin\Release\AppManifest.xaml
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version1-AddLocalStorage\gTask\Bin\Release\Properties\WMAppManifest.xml
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version1-AddLocalStorage\gTask\Bin\Release\gTask_Release_AnyCPU.xap
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version1-AddLocalStorage\gTask\Bin\Release\BackgroundAgent.dll
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version1-AddLocalStorage\gTask\Bin\Release\Microsoft.Phone.Controls.Maps.dll
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version1-AddLocalStorage\gTask\Bin\Release\Microsoft.Threading.Tasks.dll
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version1-AddLocalStorage\gTask\Bin\Release\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version1-AddLocalStorage\gTask\Bin\Release\Microsoft.Threading.Tasks.Extensions.Phone.dll
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version1-AddLocalStorage\gTask\Bin\Release\Newtonsoft.Json.dll
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version1-AddLocalStorage\gTask\Bin\Release\System.Net.Http.dll
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version1-AddLocalStorage\gTask\Bin\Release\System.Net.Http.Extensions.dll
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version1-AddLocalStorage\gTask\Bin\Release\System.Net.Http.Primitives.dll
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version1-AddLocalStorage\gTask\Bin\Release\Zlib.Portable.dll
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version1-AddLocalStorage\gTask\Bin\Release\BackgroundAgent.pdb
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version1-AddLocalStorage\gTask\Bin\Release\Microsoft.Threading.Tasks.xml
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version1-AddLocalStorage\gTask\Bin\Release\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version1-AddLocalStorage\gTask\Bin\Release\Microsoft.Threading.Tasks.Extensions.Phone.xml
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version1-AddLocalStorage\gTask\Bin\Release\Newtonsoft.Json.xml
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version1-AddLocalStorage\gTask\Bin\Release\System.Net.Http.xml
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version1-AddLocalStorage\gTask\Bin\Release\System.Net.Http.Extensions.xml
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version1-AddLocalStorage\gTask\Bin\Release\System.Net.Http.Primitives.xml
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version1-AddLocalStorage\gTask\Bin\Release\Zlib.Portable.xml
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version1-AddLocalStorage\gTask\obj\Release\gTask.csprojResolveAssemblyReference.cache
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version1-AddLocalStorage\gTask\obj\Release\App.g.cs
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version1-AddLocalStorage\gTask\obj\Release\Login.g.cs
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version1-AddLocalStorage\gTask\obj\Release\MainPage.g.cs
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version1-AddLocalStorage\gTask\obj\Release\Settings.g.cs
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version1-AddLocalStorage\gTask\obj\Release\Views\TaskView.g.cs
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version1-AddLocalStorage\gTask\obj\Release\Views\Edit.g.cs
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version1-AddLocalStorage\gTask\obj\Release\Views\EditList.g.cs
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version1-AddLocalStorage\gTask\obj\Release\gTask.g.resources
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version1-AddLocalStorage\gTask\obj\Release\gTask.Resources.AppResources.resources
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version1-AddLocalStorage\gTask\obj\Release\gTask.csproj.GenerateResource.Cache
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version1-AddLocalStorage\gTask\obj\Release\gTask.dll
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version1-AddLocalStorage\gTask\obj\Release\gTask.pdb
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version1-AddLocalStorage\gTask\obj\Release\XapCacheFile.xml
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version3-AddLocalStorage\gTask\obj\Release\gTask.csprojResolveAssemblyReference.cache
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version3-AddLocalStorage\gTask\obj\Release\App.g.cs
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version3-AddLocalStorage\gTask\obj\Release\Login.g.cs
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version3-AddLocalStorage\gTask\obj\Release\MainPage.g.cs
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version3-AddLocalStorage\gTask\obj\Release\Settings.g.cs
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version3-AddLocalStorage\gTask\obj\Release\Views\TaskView.g.cs
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version3-AddLocalStorage\gTask\obj\Release\Views\Edit.g.cs
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version3-AddLocalStorage\gTask\obj\Release\Views\EditList.g.cs
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version3-AddLocalStorage\gTask\obj\Release\gTask.g.resources
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version3-AddLocalStorage\gTask\obj\Release\gTask.Resources.AppResources.resources
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version3-AddLocalStorage\gTask\obj\Release\gTask.csproj.GenerateResource.Cache
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version3-AddLocalStorage\gTask\obj\Release\gTask.dll
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version3-AddLocalStorage\gTask\Bin\Release\gTask.dll
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version3-AddLocalStorage\gTask\Bin\Release\gTask.pdb
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version3-AddLocalStorage\gTask\Bin\Release\AppManifest.xaml
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version3-AddLocalStorage\gTask\Bin\Release\Properties\WMAppManifest.xml
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version3-AddLocalStorage\gTask\Bin\Release\gTask_Release_AnyCPU.xap
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version3-AddLocalStorage\gTask\Bin\Release\BackgroundAgent.dll
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version3-AddLocalStorage\gTask\Bin\Release\Microsoft.Phone.Controls.Maps.dll
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version3-AddLocalStorage\gTask\Bin\Release\Microsoft.Threading.Tasks.dll
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version3-AddLocalStorage\gTask\Bin\Release\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version3-AddLocalStorage\gTask\Bin\Release\Microsoft.Threading.Tasks.Extensions.Phone.dll
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version3-AddLocalStorage\gTask\Bin\Release\Newtonsoft.Json.dll
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version3-AddLocalStorage\gTask\Bin\Release\System.Net.Http.dll
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version3-AddLocalStorage\gTask\Bin\Release\System.Net.Http.Extensions.dll
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version3-AddLocalStorage\gTask\Bin\Release\System.Net.Http.Primitives.dll
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version3-AddLocalStorage\gTask\Bin\Release\Zlib.Portable.dll
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version3-AddLocalStorage\gTask\Bin\Release\BackgroundAgent.pdb
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version3-AddLocalStorage\gTask\Bin\Release\Microsoft.Threading.Tasks.xml
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version3-AddLocalStorage\gTask\Bin\Release\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version3-AddLocalStorage\gTask\Bin\Release\Microsoft.Threading.Tasks.Extensions.Phone.xml
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version3-AddLocalStorage\gTask\Bin\Release\Newtonsoft.Json.xml
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version3-AddLocalStorage\gTask\Bin\Release\System.Net.Http.xml
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version3-AddLocalStorage\gTask\Bin\Release\System.Net.Http.Extensions.xml
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version3-AddLocalStorage\gTask\Bin\Release\System.Net.Http.Primitives.xml
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version3-AddLocalStorage\gTask\Bin\Release\Zlib.Portable.xml
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version3-AddLocalStorage\gTask\obj\Release\gTask.pdb
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version3-AddLocalStorage\gTask\obj\Release\XapCacheFile.xml
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version3-Offline Mode\gTask\Bin\Release\gTask.dll
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version3-Offline Mode\gTask\Bin\Release\gTask.pdb
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version3-Offline Mode\gTask\Bin\Release\AppManifest.xaml
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version3-Offline Mode\gTask\Bin\Release\Properties\WMAppManifest.xml
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version3-Offline Mode\gTask\Bin\Release\gTask_Release_AnyCPU.xap
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version3-Offline Mode\gTask\Bin\Release\BackgroundAgent.dll
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version3-Offline Mode\gTask\Bin\Release\Microsoft.Phone.Controls.Maps.dll
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version3-Offline Mode\gTask\Bin\Release\Microsoft.Threading.Tasks.dll
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version3-Offline Mode\gTask\Bin\Release\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version3-Offline Mode\gTask\Bin\Release\Microsoft.Threading.Tasks.Extensions.Phone.dll
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version3-Offline Mode\gTask\Bin\Release\Newtonsoft.Json.dll
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version3-Offline Mode\gTask\Bin\Release\System.Net.Http.dll
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version3-Offline Mode\gTask\Bin\Release\System.Net.Http.Extensions.dll
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version3-Offline Mode\gTask\Bin\Release\System.Net.Http.Primitives.dll
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version3-Offline Mode\gTask\Bin\Release\Zlib.Portable.dll
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version3-Offline Mode\gTask\Bin\Release\BackgroundAgent.pdb
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version3-Offline Mode\gTask\Bin\Release\Microsoft.Threading.Tasks.xml
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version3-Offline Mode\gTask\Bin\Release\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version3-Offline Mode\gTask\Bin\Release\Microsoft.Threading.Tasks.Extensions.Phone.xml
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version3-Offline Mode\gTask\Bin\Release\Newtonsoft.Json.xml
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version3-Offline Mode\gTask\Bin\Release\System.Net.Http.xml
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version3-Offline Mode\gTask\Bin\Release\System.Net.Http.Extensions.xml
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version3-Offline Mode\gTask\Bin\Release\System.Net.Http.Primitives.xml
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version3-Offline Mode\gTask\Bin\Release\Zlib.Portable.xml
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version3-Offline Mode\gTask\obj\Release\gTask.csprojResolveAssemblyReference.cache
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version3-Offline Mode\gTask\obj\Release\App.g.cs
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version3-Offline Mode\gTask\obj\Release\Login.g.cs
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version3-Offline Mode\gTask\obj\Release\MainPage.g.cs
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version3-Offline Mode\gTask\obj\Release\Settings.g.cs
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version3-Offline Mode\gTask\obj\Release\Views\TaskView.g.cs
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version3-Offline Mode\gTask\obj\Release\Views\Edit.g.cs
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version3-Offline Mode\gTask\obj\Release\Views\EditList.g.cs
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version3-Offline Mode\gTask\obj\Release\gTask.g.resources
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version3-Offline Mode\gTask\obj\Release\gTask.Resources.AppResources.resources
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version3-Offline Mode\gTask\obj\Release\gTask.csproj.GenerateResource.Cache
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version3-Offline Mode\gTask\obj\Release\gTask.dll
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version3-Offline Mode\gTask\obj\Release\gTask.pdb
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version3-Offline Mode\gTask\obj\Release\XapCacheFile.xml
+C:\Users\mloflin\Documents\Visual Studio 2015\Projects\gtask-Version3-Offline Mode\gTask\Bin\Release\gTask.dll
+C:\Users\mloflin\Documents\Visual Studio 2015\Projects\gtask-Version3-Offline Mode\gTask\Bin\Release\gTask.pdb
+C:\Users\mloflin\Documents\Visual Studio 2015\Projects\gtask-Version3-Offline Mode\gTask\Bin\Release\AppManifest.xaml
+C:\Users\mloflin\Documents\Visual Studio 2015\Projects\gtask-Version3-Offline Mode\gTask\Bin\Release\Properties\WMAppManifest.xml
+C:\Users\mloflin\Documents\Visual Studio 2015\Projects\gtask-Version3-Offline Mode\gTask\Bin\Release\gTask_Release_AnyCPU.xap
+C:\Users\mloflin\Documents\Visual Studio 2015\Projects\gtask-Version3-Offline Mode\gTask\Bin\Release\BackgroundAgent.dll
+C:\Users\mloflin\Documents\Visual Studio 2015\Projects\gtask-Version3-Offline Mode\gTask\Bin\Release\Microsoft.Phone.Controls.Maps.dll
+C:\Users\mloflin\Documents\Visual Studio 2015\Projects\gtask-Version3-Offline Mode\gTask\Bin\Release\Microsoft.Threading.Tasks.dll
+C:\Users\mloflin\Documents\Visual Studio 2015\Projects\gtask-Version3-Offline Mode\gTask\Bin\Release\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\mloflin\Documents\Visual Studio 2015\Projects\gtask-Version3-Offline Mode\gTask\Bin\Release\Microsoft.Threading.Tasks.Extensions.Phone.dll
+C:\Users\mloflin\Documents\Visual Studio 2015\Projects\gtask-Version3-Offline Mode\gTask\Bin\Release\Newtonsoft.Json.dll
+C:\Users\mloflin\Documents\Visual Studio 2015\Projects\gtask-Version3-Offline Mode\gTask\Bin\Release\System.Net.Http.dll
+C:\Users\mloflin\Documents\Visual Studio 2015\Projects\gtask-Version3-Offline Mode\gTask\Bin\Release\System.Net.Http.Extensions.dll
+C:\Users\mloflin\Documents\Visual Studio 2015\Projects\gtask-Version3-Offline Mode\gTask\Bin\Release\System.Net.Http.Primitives.dll
+C:\Users\mloflin\Documents\Visual Studio 2015\Projects\gtask-Version3-Offline Mode\gTask\Bin\Release\Zlib.Portable.dll
+C:\Users\mloflin\Documents\Visual Studio 2015\Projects\gtask-Version3-Offline Mode\gTask\Bin\Release\BackgroundAgent.pdb
+C:\Users\mloflin\Documents\Visual Studio 2015\Projects\gtask-Version3-Offline Mode\gTask\Bin\Release\Microsoft.Threading.Tasks.xml
+C:\Users\mloflin\Documents\Visual Studio 2015\Projects\gtask-Version3-Offline Mode\gTask\Bin\Release\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\mloflin\Documents\Visual Studio 2015\Projects\gtask-Version3-Offline Mode\gTask\Bin\Release\Microsoft.Threading.Tasks.Extensions.Phone.xml
+C:\Users\mloflin\Documents\Visual Studio 2015\Projects\gtask-Version3-Offline Mode\gTask\Bin\Release\Newtonsoft.Json.xml
+C:\Users\mloflin\Documents\Visual Studio 2015\Projects\gtask-Version3-Offline Mode\gTask\Bin\Release\System.Net.Http.xml
+C:\Users\mloflin\Documents\Visual Studio 2015\Projects\gtask-Version3-Offline Mode\gTask\Bin\Release\System.Net.Http.Extensions.xml
+C:\Users\mloflin\Documents\Visual Studio 2015\Projects\gtask-Version3-Offline Mode\gTask\Bin\Release\System.Net.Http.Primitives.xml
+C:\Users\mloflin\Documents\Visual Studio 2015\Projects\gtask-Version3-Offline Mode\gTask\Bin\Release\Zlib.Portable.xml
+C:\Users\mloflin\Documents\Visual Studio 2015\Projects\gtask-Version3-Offline Mode\gTask\obj\Release\gTask.csprojResolveAssemblyReference.cache
+C:\Users\mloflin\Documents\Visual Studio 2015\Projects\gtask-Version3-Offline Mode\gTask\obj\Release\Login.g.cs
+C:\Users\mloflin\Documents\Visual Studio 2015\Projects\gtask-Version3-Offline Mode\gTask\obj\Release\MainPage.g.cs
+C:\Users\mloflin\Documents\Visual Studio 2015\Projects\gtask-Version3-Offline Mode\gTask\obj\Release\Settings.g.cs
+C:\Users\mloflin\Documents\Visual Studio 2015\Projects\gtask-Version3-Offline Mode\gTask\obj\Release\Views\TaskView.g.cs
+C:\Users\mloflin\Documents\Visual Studio 2015\Projects\gtask-Version3-Offline Mode\gTask\obj\Release\Views\Edit.g.cs
+C:\Users\mloflin\Documents\Visual Studio 2015\Projects\gtask-Version3-Offline Mode\gTask\obj\Release\Views\EditList.g.cs
+C:\Users\mloflin\Documents\Visual Studio 2015\Projects\gtask-Version3-Offline Mode\gTask\obj\Release\gTask.g.resources
+C:\Users\mloflin\Documents\Visual Studio 2015\Projects\gtask-Version3-Offline Mode\gTask\obj\Release\gTask.Resources.AppResources.resources
+C:\Users\mloflin\Documents\Visual Studio 2015\Projects\gtask-Version3-Offline Mode\gTask\obj\Release\gTask.csproj.GenerateResource.Cache
+C:\Users\mloflin\Documents\Visual Studio 2015\Projects\gtask-Version3-Offline Mode\gTask\obj\Release\gTask.dll
+C:\Users\mloflin\Documents\Visual Studio 2015\Projects\gtask-Version3-Offline Mode\gTask\obj\Release\gTask.pdb
+C:\Users\mloflin\Documents\Visual Studio 2015\Projects\gtask-Version3-Offline Mode\gTask\obj\Release\XapCacheFile.xml
+C:\Users\mloflin\Documents\Visual Studio 2015\Projects\gtask-Version3-Offline Mode\gTask\obj\Release\Views\App.g.cs
+C:\Users\mloflin\Documents\Visual Studio 2015\Projects\gTask\gTask\obj\Release\Views\App.g.cs
+C:\Users\mloflin\Google Drive\GitHub\GTask\gTask\Bin\Release\gTask.dll
+C:\Users\mloflin\Google Drive\GitHub\GTask\gTask\Bin\Release\gTask.pdb
+C:\Users\mloflin\Google Drive\GitHub\GTask\gTask\Bin\Release\AppManifest.xaml
+C:\Users\mloflin\Google Drive\GitHub\GTask\gTask\Bin\Release\Properties\WMAppManifest.xml
+C:\Users\mloflin\Google Drive\GitHub\GTask\gTask\Bin\Release\gTask_Release_AnyCPU.xap
+C:\Users\mloflin\Google Drive\GitHub\GTask\gTask\Bin\Release\BackgroundAgent.dll
+C:\Users\mloflin\Google Drive\GitHub\GTask\gTask\Bin\Release\Microsoft.Phone.Controls.Maps.dll
+C:\Users\mloflin\Google Drive\GitHub\GTask\gTask\Bin\Release\Microsoft.Threading.Tasks.dll
+C:\Users\mloflin\Google Drive\GitHub\GTask\gTask\Bin\Release\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\mloflin\Google Drive\GitHub\GTask\gTask\Bin\Release\Microsoft.Threading.Tasks.Extensions.Phone.dll
+C:\Users\mloflin\Google Drive\GitHub\GTask\gTask\Bin\Release\Newtonsoft.Json.dll
+C:\Users\mloflin\Google Drive\GitHub\GTask\gTask\Bin\Release\System.Net.Http.dll
+C:\Users\mloflin\Google Drive\GitHub\GTask\gTask\Bin\Release\System.Net.Http.Extensions.dll
+C:\Users\mloflin\Google Drive\GitHub\GTask\gTask\Bin\Release\System.Net.Http.Primitives.dll
+C:\Users\mloflin\Google Drive\GitHub\GTask\gTask\Bin\Release\Zlib.Portable.dll
+C:\Users\mloflin\Google Drive\GitHub\GTask\gTask\Bin\Release\BackgroundAgent.pdb
+C:\Users\mloflin\Google Drive\GitHub\GTask\gTask\Bin\Release\Microsoft.Threading.Tasks.xml
+C:\Users\mloflin\Google Drive\GitHub\GTask\gTask\Bin\Release\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\mloflin\Google Drive\GitHub\GTask\gTask\Bin\Release\Microsoft.Threading.Tasks.Extensions.Phone.xml
+C:\Users\mloflin\Google Drive\GitHub\GTask\gTask\Bin\Release\Newtonsoft.Json.xml
+C:\Users\mloflin\Google Drive\GitHub\GTask\gTask\Bin\Release\System.Net.Http.xml
+C:\Users\mloflin\Google Drive\GitHub\GTask\gTask\Bin\Release\System.Net.Http.Extensions.xml
+C:\Users\mloflin\Google Drive\GitHub\GTask\gTask\Bin\Release\System.Net.Http.Primitives.xml
+C:\Users\mloflin\Google Drive\GitHub\GTask\gTask\Bin\Release\Zlib.Portable.xml
+C:\Users\mloflin\Google Drive\GitHub\GTask\gTask\obj\Release\gTask.csprojResolveAssemblyReference.cache
+C:\Users\mloflin\Google Drive\GitHub\GTask\gTask\obj\Release\Views\App.g.cs
+C:\Users\mloflin\Google Drive\GitHub\GTask\gTask\obj\Release\Login.g.cs
+C:\Users\mloflin\Google Drive\GitHub\GTask\gTask\obj\Release\MainPage.g.cs
+C:\Users\mloflin\Google Drive\GitHub\GTask\gTask\obj\Release\Settings.g.cs
+C:\Users\mloflin\Google Drive\GitHub\GTask\gTask\obj\Release\Views\TaskView.g.cs
+C:\Users\mloflin\Google Drive\GitHub\GTask\gTask\obj\Release\Views\Edit.g.cs
+C:\Users\mloflin\Google Drive\GitHub\GTask\gTask\obj\Release\Views\EditList.g.cs
+C:\Users\mloflin\Google Drive\GitHub\GTask\gTask\obj\Release\gTask.g.resources
+C:\Users\mloflin\Google Drive\GitHub\GTask\gTask\obj\Release\gTask.Resources.AppResources.resources
+C:\Users\mloflin\Google Drive\GitHub\GTask\gTask\obj\Release\gTask.csproj.GenerateResource.Cache
+C:\Users\mloflin\Google Drive\GitHub\GTask\gTask\obj\Release\gTask.dll
+C:\Users\mloflin\Google Drive\GitHub\GTask\gTask\obj\Release\gTask.pdb
+C:\Users\mloflin\Google Drive\GitHub\GTask\gTask\obj\Release\XapCacheFile.xml

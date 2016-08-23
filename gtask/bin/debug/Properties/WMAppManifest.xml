@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deployment xmlns="http://schemas.microsoft.com/windowsphone/2012/deployment" AppPlatformVersion="8.0">
+  <DefaultLanguage xmlns="" code="en-US" />
+  <App xmlns="" ProductID="{eac5c868-1933-4f45-83ad-2fd86e0c30b2}" Title="GTask_Test" RuntimeType="Silverlight" Version="2.0.1.6" Genre="apps.normal" Author="MLoflin.Apps" Description="GTask_Test is an app used to manage Google Task List(s). &#xD;&#xA;&#xD;&#xA;- Easily Sync Tasks and Tasks Lists&#xD;&#xA;- Quickly add/edit/delete Tasks and Task Lists&#xD;&#xA;- Pin Task Lists to Start with # of Due Tasks or # of Total Tasks&#xD;&#xA;- Offline Mode&#xD;&#xA;- Sort Tasks and Task Lists" Publisher="GTask_Test" PublisherID="{e8715e96-9ee1-4a84-8012-2fcca0c987be}">
+    <IconPath IsRelative="true" IsResource="false">Assets\Icons\202.png</IconPath>
+    <Capabilities>
+      <Capability Name="ID_CAP_NETWORKING" />
+      <Capability Name="ID_CAP_WEBBROWSERCOMPONENT" />
+      <Capability Name="ID_CAP_IDENTITY_USER" />
+      <Capability Name="ID_CAP_IDENTITY_DEVICE" />
+      <Capability Name="ID_CAP_MEDIALIB_AUDIO" />
+      <Capability Name="ID_CAP_MEDIALIB_PHOTO" />
+      <Capability Name="ID_CAP_MEDIALIB_PLAYBACK" />
+      <Capability Name="ID_CAP_PHONEDIALER" />
+      <Capability Name="ID_CAP_SPEECH_RECOGNITION" />
+      <Capability Name="ID_CAP_MICROPHONE" />
+    </Capabilities>
+    <Tasks>
+      <DefaultTask Name="_default" NavigationPage="MainPage.xaml" />
+      <ExtendedTask Name="BackgroundAgent">
+        <BackgroundServiceAgent Specifier="ScheduledTaskAgent" Name="BackgroundAgent" Source="BackgroundAgent" Type="BackgroundAgent.ScheduledAgent" />
+      </ExtendedTask>
+    </Tasks>
+    <Tokens>
+      <PrimaryToken TokenID="GTaskToken" TaskName="_default">
+        <TemplateIconic>
+          <SmallImageURI IsRelative="true" IsResource="false">Assets\Icons\110.png</SmallImageURI>
+          <Count>0</Count>
+          <IconImageURI IsRelative="true" IsResource="false">Assets\Icons\202.png</IconImageURI>
+          <Title>GTask_Test</Title>
+          <Message></Message>
+          <BackgroundColor></BackgroundColor>
+          <HasLarge>false</HasLarge>
+          <LargeContent1></LargeContent1>
+          <LargeContent2></LargeContent2>
+          <LargeContent3></LargeContent3>
+          <DeviceLockImageURI IsRelative="true" IsResource="false"></DeviceLockImageURI>
+        </TemplateIconic>
+      </PrimaryToken>
+    </Tokens>
+    <Extensions>
+      <Protocol Name="gtask" NavUriFragment="encodedLaunchUri=%s" TaskID="_default" />
+    </Extensions>
+    <ScreenResolutions>
+      <ScreenResolution Name="ID_RESOLUTION_WVGA" />
+      <ScreenResolution Name="ID_RESOLUTION_WXGA" />
+      <ScreenResolution Name="ID_RESOLUTION_HD720P" />
+    </ScreenResolutions>
+  </App>
+</Deployment>
+<!-- WPSDK Version 8.0.9900 -->

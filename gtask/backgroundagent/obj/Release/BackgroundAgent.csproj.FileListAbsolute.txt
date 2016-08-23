@@ -1,0 +1,41 @@
+C:\Users\mloflin\Documents\Visual Studio 2012\Projects\gTask\gTask\BackgroundAgent\Bin\Release\BackgroundAgent.dll
+C:\Users\mloflin\Documents\Visual Studio 2012\Projects\gTask\gTask\BackgroundAgent\Bin\Release\BackgroundAgent.pdb
+C:\Users\mloflin\Documents\Visual Studio 2012\Projects\gTask\gTask\BackgroundAgent\Bin\Release\Newtonsoft.Json.dll
+C:\Users\mloflin\Documents\Visual Studio 2012\Projects\gTask\gTask\BackgroundAgent\Bin\Release\RestSharp.WindowsPhone.dll
+C:\Users\mloflin\Documents\Visual Studio 2012\Projects\gTask\gTask\BackgroundAgent\obj\Release\BackgroundAgent.dll
+C:\Users\mloflin\Documents\Visual Studio 2012\Projects\gTask\gTask\BackgroundAgent\obj\Release\BackgroundAgent.pdb
+C:\Users\mloflin\Documents\Visual Studio 2012\Projects\gTask\gTask\BackgroundAgent\obj\Release\BackgroundAgent.csprojResolveAssemblyReference.cache
+C:\Users\mloflin\Documents\Visual Studio 2013\Projects\gTask\gTask\BackgroundAgent\Bin\Release\BackgroundAgent.dll
+C:\Users\mloflin\Documents\Visual Studio 2013\Projects\gTask\gTask\BackgroundAgent\Bin\Release\BackgroundAgent.pdb
+C:\Users\mloflin\Documents\Visual Studio 2013\Projects\gTask\gTask\BackgroundAgent\obj\Release\BackgroundAgent.dll
+C:\Users\mloflin\Documents\Visual Studio 2013\Projects\gTask\gTask\BackgroundAgent\obj\Release\BackgroundAgent.pdb
+C:\Users\mloflin\Documents\Visual Studio 2015\Projects\gTask\gTask\BackgroundAgent\Bin\Release\BackgroundAgent.dll
+C:\Users\mloflin\Documents\Visual Studio 2015\Projects\gTask\gTask\BackgroundAgent\Bin\Release\BackgroundAgent.pdb
+C:\Users\mloflin\Documents\Visual Studio 2015\Projects\gTask\gTask\BackgroundAgent\obj\Release\BackgroundAgent.csprojResolveAssemblyReference.cache
+C:\Users\mloflin\Documents\Visual Studio 2015\Projects\gTask\gTask\BackgroundAgent\obj\Release\BackgroundAgent.dll
+C:\Users\mloflin\Documents\Visual Studio 2015\Projects\gTask\gTask\BackgroundAgent\obj\Release\BackgroundAgent.pdb
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Original\gTask\BackgroundAgent\Bin\Release\BackgroundAgent.dll
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Original\gTask\BackgroundAgent\Bin\Release\BackgroundAgent.pdb
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Original\gTask\BackgroundAgent\obj\Release\BackgroundAgent.csprojResolveAssemblyReference.cache
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Original\gTask\BackgroundAgent\obj\Release\BackgroundAgent.dll
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Original\gTask\BackgroundAgent\obj\Release\BackgroundAgent.pdb
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version1-AddLocalStorage\gTask\BackgroundAgent\obj\Release\BackgroundAgent.csprojResolveAssemblyReference.cache
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version1-AddLocalStorage\gTask\BackgroundAgent\obj\Release\BackgroundAgent.dll
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version1-AddLocalStorage\gTask\BackgroundAgent\obj\Release\BackgroundAgent.pdb
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version1-AddLocalStorage\gTask\BackgroundAgent\Bin\Release\BackgroundAgent.dll
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version1-AddLocalStorage\gTask\BackgroundAgent\Bin\Release\BackgroundAgent.pdb
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version3-AddLocalStorage\gTask\BackgroundAgent\obj\Release\BackgroundAgent.csprojResolveAssemblyReference.cache
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version3-AddLocalStorage\gTask\BackgroundAgent\obj\Release\BackgroundAgent.dll
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version3-AddLocalStorage\gTask\BackgroundAgent\obj\Release\BackgroundAgent.pdb
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version3-AddLocalStorage\gTask\BackgroundAgent\Bin\Release\BackgroundAgent.dll
+C:\Users\davwe\Dropbox\Personal\Personal Programming\Windows Phone Programming\MattLoflin-GoogleTasks\Version3-AddLocalStorage\gTask\BackgroundAgent\Bin\Release\BackgroundAgent.pdb
+C:\Users\mloflin\Documents\Visual Studio 2015\Projects\gtask-Version3-Offline Mode\gTask\BackgroundAgent\Bin\Release\BackgroundAgent.dll
+C:\Users\mloflin\Documents\Visual Studio 2015\Projects\gtask-Version3-Offline Mode\gTask\BackgroundAgent\Bin\Release\BackgroundAgent.pdb
+C:\Users\mloflin\Documents\Visual Studio 2015\Projects\gtask-Version3-Offline Mode\gTask\BackgroundAgent\obj\Release\BackgroundAgent.dll
+C:\Users\mloflin\Documents\Visual Studio 2015\Projects\gtask-Version3-Offline Mode\gTask\BackgroundAgent\obj\Release\BackgroundAgent.pdb
+C:\Users\mloflin\Documents\Visual Studio 2015\Projects\gtask-Version3-Offline Mode\gTask\BackgroundAgent\obj\Release\BackgroundAgent.csprojResolveAssemblyReference.cache
+C:\Users\mloflin\Google Drive\GitHub\GTask\gTask\BackgroundAgent\Bin\Release\BackgroundAgent.dll
+C:\Users\mloflin\Google Drive\GitHub\GTask\gTask\BackgroundAgent\Bin\Release\BackgroundAgent.pdb
+C:\Users\mloflin\Google Drive\GitHub\GTask\gTask\BackgroundAgent\obj\Release\BackgroundAgent.csprojResolveAssemblyReference.cache
+C:\Users\mloflin\Google Drive\GitHub\GTask\gTask\BackgroundAgent\obj\Release\BackgroundAgent.dll
+C:\Users\mloflin\Google Drive\GitHub\GTask\gTask\BackgroundAgent\obj\Release\BackgroundAgent.pdb

@@ -1,0 +1,22 @@
+C:\Users\mloflin\Documents\Visual Studio 2012\Projects\gTask\gTask\BackgroundAgent\Bin\Debug\BackgroundAgent.dll
+C:\Users\mloflin\Documents\Visual Studio 2012\Projects\gTask\gTask\BackgroundAgent\Bin\Debug\BackgroundAgent.pdb
+C:\Users\mloflin\Documents\Visual Studio 2012\Projects\gTask\gTask\BackgroundAgent\Bin\Debug\Newtonsoft.Json.dll
+C:\Users\mloflin\Documents\Visual Studio 2012\Projects\gTask\gTask\BackgroundAgent\Bin\Debug\RestSharp.WindowsPhone.dll
+C:\Users\mloflin\Documents\Visual Studio 2012\Projects\gTask\gTask\BackgroundAgent\obj\Debug\BackgroundAgent.dll
+C:\Users\mloflin\Documents\Visual Studio 2012\Projects\gTask\gTask\BackgroundAgent\obj\Debug\BackgroundAgent.pdb
+C:\Users\mloflin\Documents\Visual Studio 2012\Projects\gTask\gTask\BackgroundAgent\obj\Debug\BackgroundAgent.csprojResolveAssemblyReference.cache
+C:\Users\mloflin\Documents\Visual Studio 2013\Projects\gTask\gTask\BackgroundAgent\Bin\Debug\BackgroundAgent.dll
+C:\Users\mloflin\Documents\Visual Studio 2013\Projects\gTask\gTask\BackgroundAgent\Bin\Debug\BackgroundAgent.pdb
+C:\Users\mloflin\Documents\Visual Studio 2013\Projects\gTask\gTask\BackgroundAgent\obj\Debug\BackgroundAgent.dll
+C:\Users\mloflin\Documents\Visual Studio 2013\Projects\gTask\gTask\BackgroundAgent\obj\Debug\BackgroundAgent.pdb
+C:\Users\mloflin\Documents\Visual Studio 2013\Projects\gTask\gTask\BackgroundAgent\obj\Debug\BackgroundAgent.csprojResolveAssemblyReference.cache
+C:\Users\mloflin\Documents\Visual Studio 2015\Projects\gTask\gTask\BackgroundAgent\Bin\Debug\BackgroundAgent.dll
+C:\Users\mloflin\Documents\Visual Studio 2015\Projects\gTask\gTask\BackgroundAgent\Bin\Debug\BackgroundAgent.pdb
+C:\Users\mloflin\Documents\Visual Studio 2015\Projects\gTask\gTask\BackgroundAgent\obj\Debug\BackgroundAgent.csprojResolveAssemblyReference.cache
+C:\Users\mloflin\Documents\Visual Studio 2015\Projects\gTask\gTask\BackgroundAgent\obj\Debug\BackgroundAgent.dll
+C:\Users\mloflin\Documents\Visual Studio 2015\Projects\gTask\gTask\BackgroundAgent\obj\Debug\BackgroundAgent.pdb
+C:\Users\mloflin\Documents\Visual Studio 2015\Projects\gtask-Version3-Offline Mode\gTask\BackgroundAgent\Bin\Debug\BackgroundAgent.dll
+C:\Users\mloflin\Documents\Visual Studio 2015\Projects\gtask-Version3-Offline Mode\gTask\BackgroundAgent\Bin\Debug\BackgroundAgent.pdb
+C:\Users\mloflin\Documents\Visual Studio 2015\Projects\gtask-Version3-Offline Mode\gTask\BackgroundAgent\obj\Debug\BackgroundAgent.dll
+C:\Users\mloflin\Documents\Visual Studio 2015\Projects\gtask-Version3-Offline Mode\gTask\BackgroundAgent\obj\Debug\BackgroundAgent.pdb
+C:\Users\mloflin\Documents\Visual Studio 2015\Projects\gtask-Version3-Offline Mode\gTask\BackgroundAgent\obj\Debug\BackgroundAgent.csprojResolveAssemblyReference.cache

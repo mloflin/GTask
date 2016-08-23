@@ -1,0 +1,61 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="gTask.Views.Edit"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:toolkit="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls.Toolkit"
+    xmlns:UI="clr-namespace:Microsoft.Advertising.Mobile.UI;assembly=Microsoft.Advertising.Mobile.UI"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="True" Loaded="PhoneApplicationPage_Loaded">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contains the name of the application and page title-->
+        <StackPanel Grid.Row="0">
+            <TextBlock x:Name="txtTitle" Text="" Style="{StaticResource PhoneTextNormalStyle}"/>
+            <TextBlock x:Name="PageTitle" Text="Edit" Style="{StaticResource PhoneTextTitle1Style}"/>
+        </StackPanel>
+
+        <!--ContentPanel - place additional content here-->
+        <Grid x:Name="ContentPanel" Grid.Row="1">
+            <ScrollViewer>
+                <StackPanel>
+                    <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="Title" VerticalAlignment="Top"/>
+                    <ScrollViewer Height="136" HorizontalAlignment="Left"  Name="scrollViewer1" VerticalAlignment="Top" Width="456">
+                        <TextBox x:Name="txtbxTitle" HorizontalAlignment="Left" Height="136" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="456" VerticalScrollBarVisibility="Auto" InputScope="Text" GotFocus="txtbxTitle_GotFocus" LostFocus="txtbxTitle_LostFocus"/>
+                    </ScrollViewer>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="Notes" VerticalAlignment="Top"/>
+                        <TextBlock x:Name="txtRemaining" HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Center" Text="" Margin="12,0,0,0"/>
+                    </StackPanel>
+                    <ScrollViewer Height="243" HorizontalAlignment="Left" Name="scrollViewer2" VerticalAlignment="Top" Width="456">
+                        <TextBox x:Name="txtNotes" HorizontalAlignment="Left" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="456" AcceptsReturn="True" InputScope="Text" MinHeight="235" Height="Auto" KeyUp="txtNotes_KeyUp" GotFocus="txtNotes_GotFocus" LostFocus="txtNotes_LostFocus"/>
+                    </ScrollViewer>
+                    <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="Due Date" VerticalAlignment="Top"/>
+                    <StackPanel Orientation="Horizontal" Margin="0,0,0,100">
+                        <toolkit:DatePicker HorizontalAlignment="Left" Name="txtDueDate" VerticalAlignment="Top" Width="200" Height="72" FontSize="20" HorizontalContentAlignment="Center"  />
+                        <CheckBox x:Name="chkNoDueDate" Content="No Reminder" HorizontalAlignment="Right" VerticalAlignment="Top" FontFamily="Portable User Interface" FontSize="20" Checked="CheckBox_Checked" Unchecked="chkNoReminder_Unchecked"/>
+                    </StackPanel>
+                </StackPanel>
+                
+            </ScrollViewer>
+        </Grid>
+        <Grid Grid.Row="2">
+            <UI:AdControl x:Name="AdControl" Height="80" VerticalAlignment="Bottom" Width="480" ApplicationId="0642d70f-1438-4c9c-92e5-ac40a4a51e35" AdUnitId="10318935" Margin="-12,0" Foreground="{x:Null}" ErrorOccurred="AdControl_ErrorOccurred"/>
+        </Grid>
+
+    </Grid>
+
+</phone:PhoneApplicationPage>

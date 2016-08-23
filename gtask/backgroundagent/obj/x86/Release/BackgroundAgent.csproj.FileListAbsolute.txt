@@ -1,0 +1,7 @@
+C:\Users\mloflin\Documents\Visual Studio 2012\Projects\gTask\gTask\BackgroundAgent\Bin\x86\Release\BackgroundAgent.dll
+C:\Users\mloflin\Documents\Visual Studio 2012\Projects\gTask\gTask\BackgroundAgent\Bin\x86\Release\BackgroundAgent.pdb
+C:\Users\mloflin\Documents\Visual Studio 2012\Projects\gTask\gTask\BackgroundAgent\Bin\x86\Release\Newtonsoft.Json.dll
+C:\Users\mloflin\Documents\Visual Studio 2012\Projects\gTask\gTask\BackgroundAgent\Bin\x86\Release\RestSharp.WindowsPhone.dll
+C:\Users\mloflin\Documents\Visual Studio 2012\Projects\gTask\gTask\BackgroundAgent\obj\x86\Release\BackgroundAgent.csprojResolveAssemblyReference.cache
+C:\Users\mloflin\Documents\Visual Studio 2012\Projects\gTask\gTask\BackgroundAgent\obj\x86\Release\BackgroundAgent.dll
+C:\Users\mloflin\Documents\Visual Studio 2012\Projects\gTask\gTask\BackgroundAgent\obj\x86\Release\BackgroundAgent.pdb

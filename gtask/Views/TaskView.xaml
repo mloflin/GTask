@@ -1,0 +1,70 @@
+﻿<phone:PhoneApplicationPage
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:toolkit="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls.Toolkit"
+    xmlns:Helpers="clr-namespace:gTask.Resources"
+    xmlns:UI="clr-namespace:Microsoft.Advertising.Mobile.UI;assembly=Microsoft.Advertising.Mobile.UI"
+    xmlns:rlb="clr-namespace:ReorderListBox"
+    xmlns:AppPromo="clr-namespace:AppPromo;assembly=AppPromo.WP8"
+    x:Class="gTask.Views.TaskView"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="True" Loaded="PhoneApplicationPage_Loaded">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent" ManipulationCompleted="FinishMove">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contains the name of the application and page title-->
+        <StackPanel Grid.Row="0">
+            <TextBlock x:Name="txtTitle" Text="" Style="{StaticResource PhoneTextNormalStyle}"/>
+            <TextBlock x:Name="txtPageTitle" Text="" Style="{StaticResource PhoneTextTitle1Style}"/>
+        </StackPanel>
+        <!--ContentPanel - place additional content here-->
+        <Grid x:Name="ContentPanel" Grid.Row="1">
+            <rlb:ReorderListBox x:Name="TasksView"  ItemsSource="{Binding TaskItem}" IsReorderEnabled="True" >
+                <rlb:ReorderListBox.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel Orientation="Horizontal" VerticalAlignment="Center">
+                            <StackPanel.Resources>
+                                <Helpers:TaskStatusConverter x:Key="TaskStatusConverter" />
+                                <Helpers:TextLineBreakConverter x:Key="TextLineBreakConverter" />
+                                <Helpers:DateConverter x:Key="DateConverter" />
+                                <Helpers:DueColorConverter x:Key="DueColorConverter" />
+                            </StackPanel.Resources>
+                            <CheckBox x:Name="chkComplete" Tag="{Binding id}" Click="CheckBox_Tap" IsChecked="{Binding status, Converter={StaticResource TaskStatusConverter}, Mode=TwoWay}" Foreground="{StaticResource PhoneInverseBackgroundBrush}" Background="{StaticResource PhoneSubtleBrush}" HorizontalAlignment="Center" VerticalAlignment="Center" />
+                            <Border BorderThickness="0,0,0,0.5" Width="480" BorderBrush="{StaticResource PhoneAccentBrush}">
+                                <TextBlock x:Name="txtBlock" Tap="Textblock_Tap" Height="Auto" Tag="{Binding id}" Width="420" TextWrapping="Wrap" HorizontalAlignment="Left" VerticalAlignment="Center" FontSize="{StaticResource PhoneFontSizeMedium}" >
+									<toolkit:ContextMenuService.ContextMenu>
+										<toolkit:ContextMenu>
+											<toolkit:MenuItem Header="Delete" Tag="{Binding id}" Click="delete_Click" />
+										</toolkit:ContextMenu>
+									</toolkit:ContextMenuService.ContextMenu>
+									<Run x:Name="txtTitle" Text="{Binding title}" FontWeight="Bold" FontFamily="Portable User Interface"/>
+									<LineBreak/>
+									<Run x:Name="txtDue" Text="{Binding due, Converter={StaticResource DateConverter}, Mode=OneWay}" Foreground="{Binding id, Converter={StaticResource DueColorConverter}, Mode=OneWay}" FontStyle="Italic"/>
+									<Run x:Name="txtNotes" Text="{Binding notes, Converter={StaticResource TextLineBreakConverter}, Mode=OneWay}" FontStyle="Italic" FontSize="{StaticResource PhoneFontSizeSmall}" FontFamily="Portable User Interface" />
+                                </TextBlock>
+                            </Border>
+                        </StackPanel>
+                    </DataTemplate>
+                </rlb:ReorderListBox.ItemTemplate>
+            </rlb:ReorderListBox>
+        </Grid>
+        <Grid Grid.Row="2">
+            <UI:AdControl x:Name="AdControl" Height="80" Width="480" ApplicationId="0642d70f-1438-4c9c-92e5-ac40a4a51e35" AdUnitId="10318935" Margin="-12,0" ErrorOccurred="AdControl_ErrorOccurred"/>
+        </Grid>
+    </Grid>
+
+</phone:PhoneApplicationPage>

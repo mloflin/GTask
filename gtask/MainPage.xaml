@@ -1,0 +1,56 @@
+﻿<phone:PhoneApplicationPage
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:toolkit="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls.Toolkit"
+    xmlns:Helpers="clr-namespace:gTask.Resources"
+    xmlns:UI="clr-namespace:Microsoft.Advertising.Mobile.UI;assembly=Microsoft.Advertising.Mobile.UI"
+    x:Class="gTask.MainPage"
+    mc:Ignorable="d"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    shell:SystemTray.IsVisible="True" Loaded="PhoneApplicationPage_Loaded">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel x:Name="TitlePanel" Grid.Row="0">
+            <TextBlock x:Name="txtTitle" Text="" Style="{StaticResource PhoneTextNormalStyle}" Margin="12,0"/>
+            <TextBlock Text="Task Lists"  Style="{StaticResource PhoneTextTitle1Style}"/>
+        </StackPanel>
+
+        <Grid x:Name="ContentPanel" Grid.Row="1">
+            <Button Content="Login to Begin" Height="180" HorizontalAlignment="Center" Margin="0,173,0,254" x:Name="btnLogin" VerticalAlignment="Center" Width="456" Click="btnLogin_Click" />
+            <ListBox ItemsSource="{Binding Tasks}" x:Name="TaskListBox" Margin="0,0,0,80" VerticalAlignment="Top" HorizontalAlignment="Left" >
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel>
+                            <StackPanel.Resources>
+                                <Helpers:TitleConverter x:Key="TitleConverter" />
+                            </StackPanel.Resources>
+                            <Button BorderThickness="0,0,0,0.5" Tag="{Binding id}" Click="TaskList_Click" Content="{Binding title, Converter={StaticResource TitleConverter}, Mode=OneWay}" HorizontalContentAlignment="Left" VerticalContentAlignment="Center" Width="480" Background="{StaticResource PhoneBackgroundBrush}" BorderBrush="{StaticResource PhoneAccentBrush}" FontSize="{StaticResource PhoneFontSizeMediumLarge}" VerticalAlignment="Center" HorizontalAlignment="Left" FontWeight="Bold" FontFamily="Portable User Interface">
+                                <toolkit:ContextMenuService.ContextMenu>
+                                    <toolkit:ContextMenu>
+                                        <toolkit:MenuItem Header="Edit" Tag="{Binding id}" Click="Edit_Click" />
+                                        <toolkit:MenuItem Header="Delete" Tag="{Binding id}" Click="Delete_Click" />
+                                    </toolkit:ContextMenu>
+                                </toolkit:ContextMenuService.ContextMenu>
+                            </Button>
+                        </StackPanel>
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+            <UI:AdControl x:Name="AdControl" Height="80" VerticalAlignment="Bottom" Width="480" ApplicationId="0642d70f-1438-4c9c-92e5-ac40a4a51e35" AdUnitId="10318935" Margin="-12,0" ErrorOccurred="AdControl_ErrorOccurred"/>
+        </Grid>
+    </Grid>
+
+</phone:PhoneApplicationPage>

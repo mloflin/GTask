@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deployment xmlns="http://schemas.microsoft.com/windowsphone/2012/deployment" AppPlatformVersion="8.0">
+  <DefaultLanguage xmlns="" code="en-US" />
+  <App xmlns="" ProductID="{eac5c868-1933-4f45-83ad-2fd86e0c30b2}" Title="GTask+" RuntimeType="Silverlight" Version="1.0.0.0" Genre="apps.normal" Author="GTask author" Description="GTask+ is an app used to manage Google Task List(s). &#xD;&#xA;&#xD;&#xA;- Easily Sync Tasks and Tasks Lists with Google &#xD;&#xA;- Quickly add/edit/delete Tasks and Task Lists&#xD;&#xA;- Pin Task Lists to Start with # of Due Tasks or # of Total Tasks&#xD;&#xA;- Sort Tasks and Task Lists" Publisher="GTask" PublisherID="{e8715e96-9ee1-4a84-8012-2fcca0c987be}">
+    <IconPath IsRelative="true" IsResource="false">Assets\Tiles\IconicTileMediumLarge.png</IconPath>
+    <Capabilities>
+      <Capability Name="ID_CAP_NETWORKING" />
+      <Capability Name="ID_CAP_MEDIALIB_AUDIO" />
+      <Capability Name="ID_CAP_MEDIALIB_PLAYBACK" />
+      <Capability Name="ID_CAP_SENSORS" />
+      <Capability Name="ID_CAP_WEBBROWSERCOMPONENT" />
+      <Capability Name="ID_CAP_IDENTITY_USER" />
+      <Capability Name="ID_CAP_MEDIALIB_PHOTO" />
+      <Capability Name="ID_CAP_PHONEDIALER" />
+      <Capability Name="ID_CAP_IDENTITY_DEVICE" />
+    </Capabilities>
+    <Tasks>
+      <DefaultTask Name="_default" NavigationPage="MainPage.xaml" />
+      <ExtendedTask Name="BackgroundAgent">
+        <BackgroundServiceAgent Specifier="ScheduledTaskAgent" Name="BackgroundAgent" Source="BackgroundAgent" Type="BackgroundAgent.ScheduledAgent" />
+      </ExtendedTask>
+    </Tasks>
+    <Tokens>
+      <PrimaryToken TokenID="GTaskToken" TaskName="_default">
+        <TemplateIconic>
+          <SmallImageURI IsRelative="true" IsResource="false">Assets\Tiles\IconicTileSmall.png</SmallImageURI>
+          <Count>0</Count>
+          <IconImageURI IsRelative="true" IsResource="false">Assets\Tiles\IconicTileMediumLarge.png</IconImageURI>
+          <Title>GTask+</Title>
+          <Message></Message>
+          <BackgroundColor></BackgroundColor>
+          <HasLarge>false</HasLarge>
+          <LargeContent1></LargeContent1>
+          <LargeContent2></LargeContent2>
+          <LargeContent3></LargeContent3>
+          <DeviceLockImageURI IsRelative="true" IsResource="false"></DeviceLockImageURI>
+        </TemplateIconic>
+      </PrimaryToken>
+    </Tokens>
+    <ScreenResolutions>
+      <ScreenResolution Name="ID_RESOLUTION_WVGA" />
+      <ScreenResolution Name="ID_RESOLUTION_WXGA" />
+      <ScreenResolution Name="ID_RESOLUTION_HD720P" />
+    </ScreenResolutions>
+  </App>
+</Deployment>
+<!-- WPSDK Version 8.0.9900 -->
