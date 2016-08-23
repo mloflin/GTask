@@ -18,7 +18,8 @@ Features:
 - Auto Refresh List & Tasks (PAID) 
 - Integrated with LockMix
 
-GTask -> https://www.microsoft.com/en-us/store/p/gtask/9nblggh0fxj9
-GTask+ -> https://www.microsoft.com/en-us/store/p/gtask/9wzdncrdr6zx 
+Links
+- GTask -> https://www.microsoft.com/en-us/store/p/gtask/9nblggh0fxj9
+- GTask+ -> https://www.microsoft.com/en-us/store/p/gtask/9wzdncrdr6zx 
 
 Last edits were made in August of 2015.
